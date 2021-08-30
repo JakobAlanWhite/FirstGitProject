@@ -1,2 +1,0 @@
-# FirstGitProject
-First Attempt
